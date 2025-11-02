@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -🔭 I’m currently working on: Portfolio website
 - 🌱 I’m learning: Data Structures & Algorithms, Flask
 - 💬 Ask me about: Python, Git
-- 📫 How to reach me: dhimansanju873@gmail.com
+- 📫 connect with me on : www.linkedin.com/in/kartik-dhiman-a96742378
 -->
 ## Skills
 - Languages: Python, C++
